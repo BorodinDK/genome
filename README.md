@@ -75,6 +75,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Contact
 
 If you have any questions or just want to say hi, feel free to contact me
-at [hi@maximborodin.ru](mailto:hi@maximborodin.ru)
+at [main@denisborodin.com](mailto:mail@denisborodin.com)
 
 Enjoy exploring the code that makes me who I am!
