@@ -1,6 +1,6 @@
 # Denis Borodin's Genome
 
-Welcome to the source code of Maxim Borodin, represented through his genetic data in a VCF (Variant Call Format) file.
+Welcome to the source code of Denis Borodin, represented through his genetic data in a VCF (Variant Call Format) file.
 This project aims to exemplify personal transparency and the possibilities of data sharing in the realm of genetics,
 mirroring the openness found in modern science and technology.
 
@@ -12,7 +12,7 @@ sequencing technologies and their importance in scientific research and data sha
 
 ## File Contents
 
-- `maxim_borodin_genome.vcf`: The VCF file containing the genetic data.
+- `denis_borodin_genome.vcf`: The VCF file containing the genetic data.
 - `README.md`: This document explaining the project.
 
 ## Getting Started
@@ -31,7 +31,7 @@ consider:
 To clone this repository, use the following command:
 
 ```bash
-git clone https://github.com/Borodin/genome
+git clone https://github.com/BorodinDK/genome
 ```
 
 ### Installation
@@ -55,13 +55,13 @@ Once you have cloned the repository and installed the necessary tools, you can s
 few examples of what you can do:
 
 ```bash
-bcftools view maxim_borodin_genome.vcf
+bcftools view denis_borodin_genome.vcf
 ```
 
 ### Basic Statistics
 
 ```bash
-vcftools --vcf maxim_borodin_genome.vcf --freq
+vcftools --vcf denis_borodin_genome.vcf --freq
 ```
 
 # Issues
