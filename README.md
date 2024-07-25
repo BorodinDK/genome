@@ -1,4 +1,4 @@
-# Maxim Borodin's Genome
+# Denis Borodin's Genome
 
 Welcome to the source code of Maxim Borodin, represented through his genetic data in a VCF (Variant Call Format) file.
 This project aims to exemplify personal transparency and the possibilities of data sharing in the realm of genetics,
